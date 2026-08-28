@@ -1,0 +1,1 @@
+jwt_secret = "dc43281bdfd93f2de63fea8e69a5c2a43718be51619baaf6dfbb44de1ced9255"

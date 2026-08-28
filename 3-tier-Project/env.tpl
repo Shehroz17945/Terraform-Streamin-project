@@ -1,0 +1,11 @@
+DB_SERVER=${db_server}
+DB_NAME=${db_name}
+DB_USER=${db_user}
+DB_PASSWORD="${db_password}"
+DB_PORT=1433
+JWT_SECRET=${jwt_secret}
+JWT_EXPIRES_IN=1h
+AZURE_STORAGE_ACCOUNT_NAME=${storage_account_name}
+AZURE_STORAGE_ACCOUNT_KEY=${storage_account_key}
+AZURE_STORAGE_CONTAINER=video-container
+PORT=5000
